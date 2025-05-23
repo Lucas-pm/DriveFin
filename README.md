@@ -5,7 +5,7 @@ oferecendo uma ferramenta simples e prática para o uso diário.
 O app funciona como um sistema financeiro, permitindo que o usuário registre entradas e saídas, visualize as movimentações diretamente na tela inicial e acompanhe
 o histórico completo das transações na carteira.
 
-#Como usar?
+## Como usar?
 Entre no link abaixo, faça o donwload e instale. 
 OBS: o Usuario deve permitir instalação de apps de fontes desconhecidas.
 
